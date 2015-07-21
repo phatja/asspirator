@@ -1,0 +1,1 @@
+Asspirator provides an administrative console for managing an ASSP installation. In addition it provides user interfaces for reviewing and categorizing ham and spam.
